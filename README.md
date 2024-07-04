@@ -1,6 +1,3 @@
-
-
-```markdown
 # Accessing Relational Data using JDBC with Spring
 
 This guide walks you through the process of accessing relational data with Spring.
